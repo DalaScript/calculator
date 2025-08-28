@@ -21,7 +21,7 @@ body {
 
 /* Display */
 .calculator-display {
-  background: black;
+  background: #0f0c29;
   color: white;
   margin: 0;
   display: flex;

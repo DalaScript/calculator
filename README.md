@@ -31,24 +31,23 @@ A simple yet powerful Calculator App built with HTML, CSS, and JavaScript. It su
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/calculator/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/calculator)
+- [🔴 Live Demo](https://dalascript.github.io/calculator/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/calculator)
 
 ### 📌 Features
 
-  - ✅ Perform basic operations: addition ➕, subtraction ➖, multiplication ✖️, and division ➗
-  - ✅ Clear button to reset the calculator instantly 🔄
-  - ✅ Decimal support for precise calculations 🔢
-  - ✅ Prevents multiple decimals in a single number ✋
-  - ✅ Continuous calculations (chain operations without resetting) 🔗
-  - ✅ Responsive design — works well on desktop 💻 and mobile 📱
-  - ✅ Custom gradient background with styled buttons 🎨
+- ✅ Perform basic operations
+- ✅ Clear button to reset the calculator instantly
+- ✅ Decimal support for precise calculations
+- ✅ Prevents multiple decimals in a single number
+- ✅ Continuous calculations (chain operations without resetting)
+- ✅ Responsive design
 
 ### 🛠️ Built with
 
-  - HTML5
-  - CSS3
-  - JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
@@ -56,20 +55,20 @@ A simple yet powerful Calculator App built with HTML, CSS, and JavaScript. It su
 
 ### 🗃️ Useful resources
 
- - [uiGradients – Background Gradients](https://uigradients.com/#MoonlitAsteroid)
- - [W3Schools – Custom Scrollbar](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
- - [MDN – CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout)
- - [MDN – grid-column](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
- - [MDN – grid-row](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row)
- - [MDN – Number Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+- [uiGradients – Background Gradients](https://uigradients.com/#MoonlitAsteroid)
+- [W3Schools – Custom Scrollbar](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
+- [MDN – CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout)
+- [MDN – grid-column](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
+- [MDN – grid-row](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row)
+- [MDN – Number Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
 
 ### 🔙 Previous Project
 
- - Drag And Drop | *Project 16/20* → [View Repository](https://github.com/DalaScript/drag-and-drop)
+- Drag And Drop | *Project 16/20* → [View Repository](https://github.com/DalaScript/drag-and-drop)
 
 ### 🔜 Next Project
 
- - Splash Page | *Project 18/20* → [View Repository](https://github.com/DalaScript/splash-page)
+- Splash Page | *Project 18/20* → [View Repository](https://github.com/DalaScript/splash-page)
 
 ---
 
@@ -77,13 +76,13 @@ A simple yet powerful Calculator App built with HTML, CSS, and JavaScript. It su
 
 ### 🌐 Connect with Me
 
- - [Instagram](https://www.instagram.com/DalaScript)
- - [YouTube](https://www.youtube.com/@DalaScript)
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
- - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
- - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
- - [GitHub](https://github.com/DalaScript)
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
